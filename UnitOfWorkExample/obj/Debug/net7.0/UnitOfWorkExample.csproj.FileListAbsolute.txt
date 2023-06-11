@@ -1,0 +1,15 @@
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/bin/Debug/net7.0/UnitOfWorkExample
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/bin/Debug/net7.0/UnitOfWorkExample.deps.json
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/bin/Debug/net7.0/UnitOfWorkExample.runtimeconfig.json
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/bin/Debug/net7.0/UnitOfWorkExample.dll
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/bin/Debug/net7.0/UnitOfWorkExample.pdb
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.csproj.AssemblyReference.cache
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.AssemblyInfoInputs.cache
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.AssemblyInfo.cs
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.csproj.CoreCompileInputs.cache
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.dll
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/refint/UnitOfWorkExample.dll
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.pdb
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/UnitOfWorkExample.genruntimeconfig.cache
+/Users/diegocantelli/Documents/repos/UnitOfWorkExample/UnitOfWorkExample/obj/Debug/net7.0/ref/UnitOfWorkExample.dll
