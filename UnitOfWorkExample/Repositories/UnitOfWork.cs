@@ -4,11 +4,13 @@ namespace UnitOfWorkExample.Repositories
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private Dictionary<Type, object>? _repositories = new Dictionary<Type, object>();
+        private readonly Dictionary<Type, object> _repositories = new ();
 
+        // Caso já exista uma chave no dicionário do mesmo tipo passado no tipo genérico do método,
+        // irá retornar a instancia ja criada
         public IRepository<T> Repository<T>() where T : class
         {
-            if (_repositories.ContainsKey(typeof(T)) == true)
+            if (_repositories.ContainsKey(typeof(T)))
             {
                 return _repositories[typeof(T)] as IRepository<T>;
             }
@@ -41,7 +43,7 @@ namespace UnitOfWorkExample.Repositories
 
         public void Dispose()
         {
-            _repositories = null;
+            _repositories.Clear();
         }
     }
 }
