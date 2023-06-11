@@ -7,12 +7,10 @@ namespace UnitOfWorkExample.Services
     {
         public void SaveProduct(Product product)
         {
-            using (var unitOfWork = new UnitOfWork())
-            { 
-                var productRepository = unitOfWork.Repository<Product>();
-                productRepository.Add(product);
-                unitOfWork.Save();
-            }
+            using var unitOfWork = new UnitOfWork();
+            var productRepository = unitOfWork.Repository<Product>();
+            productRepository.Add(product);
+            unitOfWork.Save();
         }
     }
 }
